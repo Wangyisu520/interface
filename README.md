@@ -1,0 +1,5 @@
+登陆注册接口的配置
+使用了bcrypt进行密码加密
+使用jsonwebtoken 登陆成功返回token
+使用passport，passport-jwt 验证token信息
+使用validator 给用户友善的提示
